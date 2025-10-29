@@ -19,7 +19,7 @@ Ensure you have GPU access, and run the following notebooks:
 - week40.ipynb
 
 For week 41, we do not have a specific notebook, but instead import our test.json from translated_data
-and do inference on this test set in each of the notebooks
+and do inference on this test set in each of the notebooks.
 
 If the notebooks do not run, install the required dependencies using
 
