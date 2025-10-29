@@ -1,0 +1,182 @@
+[
+  {
+    "lang": "da",
+    "question": "Hvem designede Eiffeltårnet?",
+    "context": "The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris, France. It was constructed between 1887 and 1889 for the 1889 Exposition Universelle (World's Fair) to celebrate the 100th anniversary of the French Revolution. The tower was initially criticized by many leading artists and intellectuals in France, who called it an eyesore, but it has since become one of the most recognized structures in the world. It was designed by Gustave Eiffel and built by his engineering company, showcasing both innovative design and engineering prowess.",
+    "answerable": true,
+    "answer_start": 458,
+    "answer": "Gustave Eiffel",
+    "answer_inlang": "Gustave Eiffel"
+  },
+  {
+    "lang": "da",
+    "question": "Hvor mange måner har Jorden?",
+    "context": "The Moon is Earth's only natural satellite and plays a critical role in stabilizing the planet’s axial tilt and influencing ocean tides. It is about one-quarter the diameter of Earth and is the fifth largest moon in the Solar System. Earth has one moon, which has been studied extensively through lunar missions and has been visited by astronauts during the Apollo missions. The Moon's gravitational pull is responsible for the rise and fall of tides around the globe.",
+    "answerable": true,
+    "answer_start": 149,
+    "answer": "one",
+    "answer_inlang": "én"
+  },
+  {
+    "lang": "da",
+    "question": "Hvad udviklede Albert Einstein?",
+    "context": "Albert Einstein was a German-born theoretical physicist who revolutionized modern physics with his work in the early 20th century. He developed the theory of relativity, which consists of the special and general theories of relativity, profoundly changing our understanding of space, time, and gravity. Einstein also made important contributions to quantum theory and received the 1921 Nobel Prize in Physics for his explanation of the photoelectric effect.",
+    "answerable": true,
+    "answer_start": 144,
+    "answer": "the theory of relativity",
+    "answer_inlang": "relativitetsteorien"
+  },
+  {
+    "lang": "da",
+    "question": "Hvor ligger Mount Everest?",
+    "context": "Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas. Its peak marks the border between Nepal and China (Tibet). Climbing Mount Everest is considered one of the most challenging feats due to extreme altitude, harsh weather, and difficult terrain. The mountain attracts climbers from all over the world, both professional mountaineers and experienced amateurs. It lies on the border between Nepal and China.",
+    "answerable": true,
+    "answer_start": 433,
+    "answer": "on the border between Nepal and China",
+    "answer_inlang": "på grænsen mellem Nepal og Kina"
+  },
+  {
+    "lang": "da",
+    "question": "Hvilket land udspringer Amazonasfloden i?",
+    "context": "The Amazon River is the largest river in the world by discharge volume of water, flowing across northern South America through multiple countries, including Brazil, Peru, Colombia, and several others. It originates high in the Andes Mountains in Peru and then travels eastward through dense rainforest before emptying into the Atlantic Ocean. The Amazon River basin supports a rich biodiversity and is crucial for local ecosystems and human populations. It originates in Peru.",
+    "answerable": true,
+    "answer_start": 165,
+    "answer": "Peru",
+    "answer_inlang": "Peru"
+  },
+  {
+    "lang": "da",
+    "question": "Hvor lang er Den Kinesiske Mur?",
+    "context": "The Great Wall of China is an immense series of walls and fortifications, totaling thousands of kilometers in length. It was built over several dynasties, with the most famous sections constructed by the Ming dynasty from 1368 to 1644. The wall stretches across deserts, mountains, and plains to protect Chinese states against invasions from nomadic groups. Its total length is over 21,000 kilometers, making it one of the most impressive architectural feats in human history.",
+    "answerable": true,
+    "answer_start": 378,
+    "answer": "over 21,000 kilometers",
+    "answer_inlang": "over 21.000 kilometer"
+  },
+  {
+    "lang": "da",
+    "question": "Er Venus den anden, eller tredje planet fra solen?",
+    "context": "Venus is the second planet from the Sun and is similar in size and composition to Earth, which is why it is often called Earth’s twin. It has a dense atmosphere composed mainly of carbon dioxide, with clouds of sulfuric acid, and surface temperatures hot enough to melt lead. Venus is not the third planet from the Sun, as that position is occupied by Earth. It is a rocky planet with no moons and rotates in a retrograde direction compared to most other planets.",
+    "answerable": true,
+    "answer_start": 4,
+    "answer": "second",
+    "answer_inlang": "anden"
+  },
+  {
+    "lang": "da",
+    "question": "Hvad var Leonardo da Vinci kendt for?",
+    "context": "Leonardo da Vinci was an Italian Renaissance polymath whose contributions spanned painting, sculpture, science, engineering, anatomy, music, and architecture. He is particularly known for his masterpieces such as the Mona Lisa and The Last Supper, as well as detailed notebooks filled with sketches and inventions, including flying machines, hydraulic systems, and anatomical diagrams. Leonardo da Vinci was known for painting, invention, and anatomical studies during the Renaissance.",
+    "answerable": true,
+    "answer_start": 418,
+    "answer": "painting, invention, and anatomical studies",
+    "answer_inlang": "maleri, opfindelser og anatomiske studier"
+  },
+  {
+    "lang": "da",
+    "question": "Hvilket hav er det største hav i verden?",
+    "context": "The Pacific Ocean is the largest and deepest ocean on Earth, covering more than 63 million square miles and containing more than half of the planet's free water. It is home to diverse marine ecosystems and many island nations. Compared to the Atlantic Ocean, the Pacific Ocean is significantly larger in both area and volume, making it the biggest ocean on Earth. The Pacific Ocean is larger than the Atlantic Ocean.",
+    "answerable": true,
+    "answer_start": 4,
+    "answer": "Pacific Ocean",
+    "answer_inlang": "Stillehavet"
+  },
+  {
+    "lang": "da",
+    "question": "Hvor mange hjertekamre har menneskets hjerte?",
+    "context": "The human heart is a muscular organ roughly the size of a fist, located in the chest between the lungs. It has four chambers: two atria and two ventricles, which work together to pump oxygenated blood to the body and return deoxygenated blood to the lungs. This complex structure ensures efficient circulation and oxygen supply to all body tissues. The human heart has four chambers: two atria and two ventricles.",
+    "answerable": true,
+    "answer_start": 111,
+    "answer": "four",
+    "answer_inlang": "fire"
+  },
+  {
+    "lang": "da",
+    "question": "I hvilken by ligger Colosseum?",
+    "context": "The Colosseum is an iconic oval amphitheatre located in the center of Rome, Italy. Built during the first century AD, it could hold tens of thousands of spectators and was used for gladiatorial contests, public spectacles, and other entertainment events. It remains one of the most visited historical landmarks in the world. The Colosseum is located in Rome, Italy.",
+    "answerable": true,
+    "answer_start": 70,
+    "answer": "Rome, Italy",
+    "answer_inlang": "Rom, Italien"
+  },
+  {
+    "lang": "da",
+    "question": "Ved hvilken temperatur fryser vand?",
+    "context": "Water is a vital substance that covers over 70% of Earth's surface. It boils at 100 degrees Celsius and freezes at 0 degrees Celsius under standard atmospheric pressure. The freezing and boiling points can vary slightly depending on impurities and pressure. Water freezes at 0 degrees Celsius at standard atmospheric pressure.",
+    "answerable": true,
+    "answer_start": 82,
+    "answer": "0 degrees Celsius",
+    "answer_inlang": "0 grader Celsius"
+  },
+  {
+    "lang": "da",
+    "question": "Hvor mange måner har Mars?",
+    "context": "Mars is the fourth planet from the Sun and is often called the Red Planet due to the iron oxide dust covering its surface. It has a thin atmosphere composed mainly of carbon dioxide. Mars has two small moons, Phobos and Deimos, which are believed to be captured asteroids from the nearby asteroid belt. Mars has two moons: Phobos and Deimos.",
+    "answerable": true,
+    "answer_start": 192,
+    "answer": "two",
+    "answer_inlang": "to"
+  },
+  {
+    "lang": "da",
+    "question": "Hvem opfandt internettet?",
+    "context": "The Internet is a global network connecting millions of private, public, academic, and government networks. Its development involved contributions from multiple researchers and engineers over decades, and it does not have a single inventor. Key contributors include Vint Cerf and Bob Kahn, who developed protocols for data transmission.",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "No single person invented the Internet",
+    "answer_inlang": "Ingen enkelt person opfandt internettet"
+  },
+  {
+    "lang": "da",
+    "question": "Hvor meget vejer den menneskelige hjerne cirka?",
+    "context": "The human brain is the central organ of the nervous system, responsible for controlling thought, memory, emotion, and many vital processes. It is enclosed within the skull and consists of billions of neurons. The average adult human brain weighs about 1.4 kilograms and has a complex structure of lobes, ventricles, and regions responsible for different functions. The average adult human brain weighs about 1.4 kilograms.",
+    "answerable": true,
+    "answer_start": 252,
+    "answer": "1.4 kilograms",
+    "answer_inlang": "1,4 kilogram"
+  },
+  {
+    "lang": "da",
+    "question": "Hvornår blev Sahara dannet?",
+    "context": "The Sahara desert is the largest hot desert in the world, covering much of North Africa. It has a diverse ecosystem with species adapted to extreme conditions, and annual rainfall averages less than 100 millimeters. The precise timing of its formation is unknown, but geological evidence suggests it evolved over millions of years.",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "about 6.000 years ago",
+    "answer_inlang": "for omkring 6.000 år siden"
+  },
+  {
+    "lang": "da",
+    "question": "Hvad symboliserer Frihedsgudinden?",
+    "context": "The Statue of Liberty, located on Liberty Island in New York Harbor, is a colossal neoclassical sculpture. A gift from France to the United States, it was designed by Frédéric Auguste Bartholdi and built by Gustave Eiffel. The statue depicts Libertas, the Roman goddess of liberty, holding a torch above her head, symbolizing freedom and democracy.",
+    "answerable": true,
+    "answer_start": 326,
+    "answer": "freedom and democracy",
+    "answer_inlang": "frihed og demokrati"
+  },
+  {
+    "lang": "da",
+    "question": "Hvornår døde Shakespeare?",
+    "context": "William Shakespeare was an English playwright, poet, and actor, active during the late 16th and early 17th centuries. His plays, including Hamlet and Romeo and Juliet, are among the most performed works in the world. Little is known about his personal life, and his exact death date cannot be determined from this context.",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "23. april 1616",
+    "answer_inlang": "23. april 1616"
+  },
+  {
+    "lang": "da",
+    "question": "Findes der partikler, der er hurtigere end lyset?",
+    "context": "The speed of light in a vacuum is approximately 299,792 kilometers per second, a fundamental constant in physics. Light travels more slowly in materials such as water or glass.",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "no",
+    "answer_inlang": "nej"
+  },
+  {
+    "lang": "da",
+    "question": "Hvor mange celler består menneskekroppen af cirka?",
+    "context": "The human body consists of trillions of cells organized into tissues and organs. Each cell performs specialized functions, including carrying oxygen, transmitting nerve impulses, and producing energy. It is estimated that the human body contains about 37 trillion cells, making it one of the most complex biological systems on Earth.",
+    "answerable": true,
+    "answer_start": 252,
+    "answer": "37 trillion",
+    "answer_inlang": "37 billioner"
+  }
+]

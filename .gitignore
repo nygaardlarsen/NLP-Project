@@ -1,12 +1,13 @@
-# Ignore checkpoints and model weights
-distilbert_qa/checkpoint-*
-*.safetensors
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+translated_data/
 *.pt
-*.bin
-*.json
-*.pth
-*.bin
-*.json
-checkpoint-*/
-.bioqa-model1/
+*.zip
+distilbert_qa/
 mt5-te-qa/
+.bioqa-model1
+best_model.pt
