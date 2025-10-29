@@ -3,7 +3,7 @@ Course project for KU NLP course
 
 This project is created by Andreas Melbye and Mathias Nygaard Larsen
 
-To run our project, follow these steps
+To run our project, follow these steps:
 
 Upload the translated_data folder to /content/drive/MyDrive/, on your Google Drive
 such that you have /content/drive/MyDrive/translated_data/...
