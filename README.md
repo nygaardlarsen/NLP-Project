@@ -1,32 +1,47 @@
-# NLP-Project
-Course project for KU NLP course 
+# NLP Course Project
 
-This project is created by Andreas Melbye and Mathias Nygaard Larsen
+A Natural Language Processing course project developed by **Mathias Nygaard Larsen and Andreas Melbye** at the University of Copenhagen.
 
-To run our project, follow these steps:
+## Overview
 
-Upload the translated_data folder to /content/drive/MyDrive/, on your Google Drive
-such that you have /content/drive/MyDrive/translated_data/...
+This repository contains our work from the NLP course, where we explored different approaches to language processing and question answering.
 
-Ensure you have GPU access, and run the following notebooks:
+We experimented with baseline methods, neural networks and transformer-based models, including DistilBERT and RoBERTa.
 
-- week36.ipynb
-- week37.ipynb
-- week38.ipynb
-- week39.ipynb
-- week39_questions_only.ipynb
-- week39_only_on_answer_inlang.ipynb
-- week40.ipynb
+The project involved data preprocessing, model training, evaluation and comparing different experimental setups.
 
-For week 41, we do not have a specific notebook, but instead import our test.json from translated_data
-and do inference on this test set in each of the notebooks.
+## Technologies
 
-If the notebooks do not run, install the required dependencies using
+- Python
+- PyTorch
+- Hugging Face Transformers
+- Jupyter Notebook / Google Colab
 
-!pip install -r requirements.txt
+## Repository structure
 
-Install further dependencies using
+- `NLP.ipynb` – Combined notebook containing work from multiple weeks
+- `experiments/` – Individual weekly experiments and model variations
+- `best_model.pt` – Saved model weights
+- `test.json` – Test data
+- `requirements.txt` – Project dependencies
 
-!pip install [packagename]
+## Running the experiments
 
-if Colab asks for other packages. This may happen with evaluate, or other metric related packages.
+The notebooks were developed primarily using Google Colab with GPU access.
+
+Some experiments require the `translated_data` directory, which should be uploaded to Google Drive at:
+
+`/content/drive/MyDrive/translated_data/`
+
+Install dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+
+The notebooks in `experiments/` document the different approaches explored throughout the course. Some may require additional dependencies or adjustments to run in a new environment.
+
+## Authors
+
+- Mathias Nygaard Larsen
+- Andreas Melbye
